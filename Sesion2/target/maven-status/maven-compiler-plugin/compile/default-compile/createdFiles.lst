@@ -1,0 +1,4 @@
+com\upsjb\sesion2\controllers\ControllerUsuario.class
+com\upsjb\sesion2\repository\Repository.class
+com\upsjb\sesion2\Sesion2Application.class
+com\upsjb\sesion2\models\Usuario.class
